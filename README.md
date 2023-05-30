@@ -8,4 +8,4 @@ Oie! Me chamo Ana Teixeira e estou aqui para dividir com você a minha experiên
  - Acompanhe minha rotina no [Vida de Desenvolvedora](https://www.instagram.com/vidadedesenvolvedora/)
  - Leia meus textos no Medium [aqui ](https://acrispteixeira.medium.com/)
 
-##### [Same content in English]()
+##### [Same content in English](README-en.md)
