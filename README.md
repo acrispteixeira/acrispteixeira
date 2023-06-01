@@ -71,18 +71,23 @@ Para aprender e entender mais como o autoconhecimento te ajuda na área da tecno
 
 ## 〰️Quer me contratar?
 
-Estou disponível para estes itens na área de **tecnologia**:
+Estou disponível para prestação de serviço na área de **tecnologia**:
 
     Atenção: seção em construção
 
  - orientações de carreira e migração de carreira;
  - mediação de eventos da comunidade;
  - aulas, palestras, eventos;
- - freelancer de desenvolvimento;
- - outros: a conversar.
+ - freelancer de desenvolvimento de software;
+ - algum não citado acima: a combinar.
 
 ### 📫Deixe sua mensagem via [e-mail](acrispteixeira@gmail.com)
+
+#### ➕ <a href="https://linktr.ee/acrispteixeira" target="_blank">Acesse meu Linktree até meu site ficar pronto</a>
 
 
 # ⭐Obrigada!
 Deixe sua estrela no meu perfil e siga nas redes ✨
+
+#### 📊 Visitantes, espero seu contato 👀
+![Visitantes](https://profile-counter.glitch.me/acrispteixeira/count.svg)
