@@ -3,8 +3,8 @@
 Oie! Me chamo Ana Teixeira e estou aqui para dividir com você a minha experiência como uma desenvolvedora que busca viver muito, viver livre, e também em equilíbrio com o trabalho. Sou uma faladeira profissional 🗣, engenheir**a** de software 👩🏿‍💻, comemoro e compartilho minhas pequenas vitórias buscando uma vida saudável em busca do equilíbrio 💪🏾 e autoconhecimento ✨.
 
 
-❗Acompanhe minha rotina no <a href="https://www.instagram.com/vidadedesenvolvedora/" target="_blank">Vida de Desenvolvedora</a>
-
+❗Acompanhe mais sobre tecnologia e bem-estar no <a href="https://www.instagram.com/vidadedesenvolvedora/" target="_blank">Vida de Desenvolvedora</a>
+❗Acompanhe minha rotina no meu perfil pessoal<a href="https://www.instagram.com/acrispteixeira/" target="_blank">Ana Teixeira</a>
 ❗Leia meus textos no Medium <a href="https://acrispteixeira.medium.com/" target="_blank">aqui</a>
 
 # ⤵️ Saiba mais
