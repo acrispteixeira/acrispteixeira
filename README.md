@@ -6,7 +6,7 @@ Oie! Me chamo Ana Teixeira e estou aqui para dividir com você a minha experiên
 
 ❗Acompanhe mais sobre tecnologia e bem-estar no <a href="https://www.instagram.com/vidadedesenvolvedora/" target="_blank">Vida de Desenvolvedora</a>
 
-❗Acompanhe minha rotina no meu perfil pessoal<a href="https://www.instagram.com/acrispteixeira/" target="_blank">Ana Teixeira</a>
+❗Acompanhe minha rotina no meu perfil pessoal <a href="https://www.instagram.com/acrispteixeira/" target="_blank">Ana Teixeira</a>
 
 ❗Leia meus textos no Medium <a href="https://acrispteixeira.medium.com/" target="_blank">aqui</a>
 
