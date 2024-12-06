@@ -4,14 +4,6 @@ Oie! Me chamo Ana Teixeira e estou aqui para dividir com você a minha experiên
 
 Visite o meu site para saber mais sobre trabalho: <a href="https://www.anateixeira.tech/" target="_blank"> Ana Teixeira Tech</a>
 
-❗Acompanhe mais sobre tecnologia e bem-estar no <a href="https://www.instagram.com/vidadedesenvolvedora/" target="_blank">Vida de Desenvolvedora</a>
-
-❗Acompanhe minha rotina no meu perfil pessoal <a href="https://www.instagram.com/acrispteixeira/" target="_blank">Ana Teixeira</a>
-
-❗Leia meus textos no Medium <a href="https://acrispteixeira.medium.com/" target="_blank">aqui</a>
-
-# ⤵️ Saiba mais
-
 
 ## 🗣 Faladeira Profissional
 
@@ -76,18 +68,13 @@ Para aprender e entender mais como o autoconhecimento te ajuda na área da tecno
 
 Estou disponível para prestação de serviço na área de **tecnologia**:
 
-    Atenção: seção em construção
-
  - orientações de carreira e migração de carreira;
  - mediação de eventos da comunidade;
  - aulas, palestras, eventos;
  - freelancer de desenvolvimento de software;
  - algum não citado acima: a combinar.
 
-### 📫Deixe sua mensagem via [e-mail](acrispteixeira@gmail.com)
-
-#### ➕ <a href="https://linktr.ee/acrispteixeira" target="_blank">Acesse meu Linktree até meu site ficar pronto</a>
-
+Me contrate por <a href="https://anateixeira.tech/contato/" target="_blank">aqui</a>.
 
 # ⭐Obrigada!
 Deixe sua estrela no meu perfil e siga nas redes ✨
